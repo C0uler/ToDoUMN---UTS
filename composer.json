@@ -1,0 +1,16 @@
+{
+    "name": "user/project_uts_lab",
+    "description": "Project UTS mengenai pembuatan to do list",
+    "autoload": {
+        "psr-4": {
+            "User\\ProjectUtsLab\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "C0uler",
+            "email": "jordanyoh2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,24 @@
+.container {
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+  .container .header{
+    margin-top: 5vh !important;
+  }
+
+
+  .container form input {
+    font-size: 1.4vw;
+  }
+
+  .container form .submit {
+    font-size: 1.6vw;
+    margin-top: 4.5vh;
+  }
+
+  .container form button {
+    font-size: 1.4vw;
+  }
